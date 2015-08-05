@@ -1,0 +1,9 @@
+*o
+modules.order
+Module.symvers
+*~
+*cmd
+*.mod.c
+.tmp_versions/
+modules.builtin
+tags
